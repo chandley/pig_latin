@@ -31,16 +31,11 @@ A hyphen is added as shown above as an aid to prevent ambiguity; otherwise, a wo
 ### Solution
 
 ### Setup
-```
-ruby piglatin.rb
-```
+
 ### Tests
 
 ### Images
-```
-e-thay uick-qay own-bray ox-fay umped-jay over-way e-thay azy-lay og-day
-the quick brown fox jumped over the lazy dog
-```
+
 ### To do
 
 Functions have some issues with the handling of capitalisation, and treatment of words which begin with 'w' followed by a vowel (tranlsation back into english is ambiguous) 
@@ -49,4 +44,5 @@ Functions have some issues with the handling of capitalisation, and treatment of
 
 *
 *
+
 
